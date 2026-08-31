@@ -14,9 +14,10 @@ If you're reading this README, you've **already accepted this assignment** throu
 
    - **Option A (Recommended)** — Open Google Colab directly:
      1. Open https://colab.research.google.com/
-     2. Click the **GitHub** tab in the pop-up
-     3. For the repository, choose `yse-eds-cert/yse-eds-cert-practice-set-0-<yourUserNameHere>`, replacing `<yourUserNameHere>` with *your* GitHub username
-     4. Click `assignment_0.ipynb`
+     2. Click **See All** in the top right corner of the page. This will open a pop-up window. 
+     3. Click the **GitHub** tab in the pop-up
+     4. For the repository, choose `yse-eds-cert/yse-eds-cert-practice-set-0-<yourUserNameHere>`, replacing `<yourUserNameHere>` with *your* GitHub username
+     5. Click `assignment_0.ipynb`
 
    - **Option B** — Edit the following link with your GitHub username, replacing `<yourUserNameHere>` with *your* GitHub username, and follow that edited link:
      `https://colab.research.google.com/github/yse-eds-cert/yse-eds-cert-practice-set-0-<yourUserNameHere>/blob/main/assignment_0.ipynb`

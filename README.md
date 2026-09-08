@@ -16,8 +16,9 @@ If you're reading this README, you've **already accepted this assignment** throu
      1. Open https://colab.research.google.com/
      2. Click **See All** in the top right corner of the page. This will open a pop-up window. 
      3. Click the **GitHub** tab in the pop-up
-     4. For the repository, choose `yse-eds-cert/yse-eds-cert-practice-set-0-<yourUserNameHere>`, replacing `<yourUserNameHere>` with *your* GitHub username
-     5. Click `assignment_0.ipynb`
+     4. Check the box to **include private repositories** — your assignment repo is private, so it won't appear in the list unless this box is checked
+     5. For the repository, choose `yse-eds-cert/yse-eds-cert-practice-set-0-<yourUserNameHere>`, replacing `<yourUserNameHere>` with *your* GitHub username
+     6. Click `assignment_0.ipynb`
 
    - **Option B** — Edit the following link with your GitHub username, replacing `<yourUserNameHere>` with *your* GitHub username, and follow that edited link:
      `https://colab.research.google.com/github/yse-eds-cert/yse-eds-cert-practice-set-0-<yourUserNameHere>/blob/main/assignment_0.ipynb`
